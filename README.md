@@ -12,3 +12,6 @@
   <role rolename="manager-gui"/>
   <user username="admin" password="admin" roles="manager-gui"/>
   <user username="deployer" password="jenkins" roles="manager-script"/>
+
+
+4. Commit de prueba para Jenkins
